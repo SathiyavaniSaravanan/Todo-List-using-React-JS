@@ -1,0 +1,20 @@
+{
+  "taskItems": [
+    {
+      "task": "Buy Groceries",
+      "id": 1
+    },
+    {
+      "task": "Learn MERN full stack",
+      "id": 3
+    },
+    {
+      "task": "Travel ",
+      "id": 4
+    },
+    {
+      "task": "Repair the Clock",
+      "id": 5
+    }
+  ]
+}

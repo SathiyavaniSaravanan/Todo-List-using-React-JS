@@ -1,0 +1,27 @@
+.taskBar
+{
+    margin-top: 30px;
+}
+.taskBar input
+{
+    padding: 20px;
+    width: 452px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: rgb(235, 222, 222);
+    color: rgb(234, 54, 54);
+    font-size: 20px;
+    text-indent: 25px;
+}
+.taskBar button
+{
+    margin-left: 15px;
+    padding: 20px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    background-color: rgb(234, 54, 54);
+    border: none;
+    color: rgb(235, 222, 222);
+}
